@@ -1,0 +1,9 @@
+{
+  "name":"TradeLab V9",
+  "short_name":"TradeLab",
+  "start_url":"/tradelab-v7/",
+  "display":"standalone",
+  "background_color":"#070b12",
+  "theme_color":"#0b1020",
+  "description":"Rules-based paper trading dashboard. No AI and no real trading."
+}
