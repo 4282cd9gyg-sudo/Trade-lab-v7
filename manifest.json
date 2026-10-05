@@ -1,0 +1,8 @@
+{
+  "name": "TradeLab V8",
+  "short_name": "TradeLab",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080b10",
+  "theme_color": "#0b0f14"
+}
